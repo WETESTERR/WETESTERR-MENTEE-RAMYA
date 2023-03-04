@@ -10,7 +10,7 @@
     "type": "git"
   },
   "dependencies": {
-    "protractor": "2.1.0"
+    "protractor": "7.0.0"
   },
   "license": "MIT",
   "devDependencies": {
